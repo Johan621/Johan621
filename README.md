@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Enthusiast | Python Learner | Curious Mind</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="coding gif" />
 </p>
 
 ---
