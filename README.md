@@ -68,7 +68,7 @@
 
 ![Johan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johan621&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johan621&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Johan621&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Johan621&theme=dark&hide_border=true)
 
 ---
 
