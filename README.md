@@ -65,11 +65,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Johan's GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Johan621&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Johan621&theme=dark&hide_border=true" />
+</p>
+
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Johan621/Johan621/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 
 ---
 
