@@ -76,7 +76,7 @@
 ## 🐍 Contribution Graph Animation
 
 <p align="center">
-  <img src="https://github.com/Johan621/Johan621/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation" />
+  <img src="https://github.com/Johan621/Johan621/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
