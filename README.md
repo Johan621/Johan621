@@ -65,7 +65,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180"/>
+  <img
+    src="https://stats-svg.vercel.app/api/github-status?username=Johan621&theme=dark"
+    width="100%"
+    alt="GitHub Stats"
+  />
   <img src="./profile/top-langs.svg" height="180"/>
 </p>
 
