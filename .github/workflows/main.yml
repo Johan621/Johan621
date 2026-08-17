@@ -14,6 +14,17 @@ jobs:
 
     steps:
       - name: Generate Snake
+        id: snake
+        continue-on-error: true
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Johan621
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Retry Generate Snake once on transient failure
+        if: steps.snake.outcome == 'failure'
         uses: Platane/snk@v3
         with:
           github_user_name: Johan621
