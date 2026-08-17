@@ -67,7 +67,7 @@
 <p align="center">
   <img
     src="https://stats-svg.vercel.app/api/github-status?username=Johan621&theme=dark"
-    width="100%"
+    width="50%"
     alt="GitHub Stats"
   />
   <img src="./profile/top-langs.svg" height="180"/>
